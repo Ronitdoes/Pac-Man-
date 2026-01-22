@@ -5,6 +5,13 @@ The project focuses on clean architecture, game logic, and state management whil
 
 ---
 
+## ▶️ Play the Game
+
+🕹️ **Live Demo:**
+👉 [https://pac-man-five-lyart.vercel.app/](https://pac-man-five-lyart.vercel.app/)
+
+---
+
 ## ✨ Features
 
 * 🎮 Classic Pac-Man gameplay
